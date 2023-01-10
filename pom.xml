@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.168.2.78:8081/repository/Gericons/</url>
+	      <url>http://54.197.45.59:8081/repository/PreciousRepoRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.168.2.78:8081/repository/Gericons2-webapp-snapshots/</url>
+	      <url>http://54.197.45.59:8081/repository/PreciousRepoSnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
